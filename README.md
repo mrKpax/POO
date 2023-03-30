@@ -3,3 +3,4 @@ Java programs for the Object Oriented Programming course
 
 - Albergo: simulates the management of a hotel.
 - Esami: several correct exams.
+- Jaguar: management simulation of a car dealership.
