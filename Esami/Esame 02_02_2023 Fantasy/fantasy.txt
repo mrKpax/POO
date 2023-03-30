@@ -1,0 +1,5 @@
+ID: 0 | Cavaliere | Energia: 350 | Posizione attuale: 1
+ID: 1 | Orco | Energia: 500 | Posizione attuale: 1
+ID: 2 | Cavaliere | Energia: 400 | Posizione attuale: 1
+ID: 3 | Cavaliere | Energia: 150 | Posizione attuale: 1
+ID: 4 | Orco | Energia: 700 | Posizione attuale: 1
