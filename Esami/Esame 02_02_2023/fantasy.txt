@@ -1,3 +1,0 @@
-Tipo: Orco | Energia: 10 | Posizione iniziale: 1 | Posizione attuale: 1 | Rotazione: 0
-Tipo: Cavaliere | Energia: 85 | Posizione iniziale: 45 | Posizione attuale: 45 | Rotazione: 0
-Tipo: Orco | Energia: 11 | Posizione iniziale: 2 | Posizione attuale: 2 | Rotazione: 0
