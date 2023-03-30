@@ -1,0 +1,6 @@
+Codice lista: 1 | Nome lista: Europa | Periodo di validità in giorni: 15
+Codice viaggio: 1 | Nome viaggio: Viaggio in Francia | Descrizione itinerario: Parigi, Marsiglia, Lione | Durata in giorni: 14 | Costo: 1300.0
+Codice viaggio: 2 | Nome viaggio: Viaggio in Germania | Descrizione itinerario: Berlino, Amburgo, Stoccarda | Durata in giorni: 14 | Costo: 800.0
+Codice viaggio: 3 | Nome viaggio: Viaggio in Inghilterra | Descrizione itinerario: Londra, Manchester, Liverpool | Durata in giorni: 14 | Costo: 1500.0
+
+
