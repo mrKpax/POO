@@ -1,0 +1,3 @@
+Vlahovic | 23 | Stipendio: 500000.0
+Chiesa | 25 | Stipendio: 780000.0
+Di Maria | 33 | Stipendio: 600000.0
