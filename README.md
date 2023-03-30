@@ -13,7 +13,6 @@ Java programs for the Object Oriented Programming course
 - Classes & instance.
 - Exception.
 - File.
-- GUI (experiment).
 - GUI (DialogBox).
 - Interface.
 - Inheritance.
