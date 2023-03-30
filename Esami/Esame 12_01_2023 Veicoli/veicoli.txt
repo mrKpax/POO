@@ -1,0 +1,5 @@
+Tipo: Macchina | Matricola: 1 | Targa: AA123BB | Cilindrata: 2000 | Colore: Blu | Ruote: 4 | Marce: 6
+Tipo: Macchina | Matricola: 2 | Targa: CC777DD | Cilindrata: 1800 | Colore: Rosso | Ruote: 4 | Marce: 5
+Tipo: Macchina | Matricola: 3 | Targa: ZZ987XY | Cilindrata: 1600 | Colore: Verde | Ruote: 4 | Marce: 7
+Tipo: Camion | Matricola: 4 | Targa: JK908OP | Cilindrata: 4000 | Colore: Bianco | Ruote: 8 | Marce: 7 | Lunghezza rimorchio: 0.0 | Peso rimorchio: 6000.0 | Limite velocità: 90
+Tipo: Camion | Matricola: 5 | Targa: HH989WQ | Cilindrata: 5000 | Colore: Nero | Ruote: 6 | Marce: 8 | Lunghezza rimorchio: 0.0 | Peso rimorchio: 0.0 | Limite velocità: 0
